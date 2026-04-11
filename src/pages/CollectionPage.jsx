@@ -3,7 +3,7 @@ import { collectionReducerActions, selectCollectionItems } from "../redux/featur
 import CollectionCard from "../components/CollectionCard";
 import Button from '../components/Button';
 
-
+ 
 const CollectionPage = () => {
 
     const collection = useSelector(selectCollectionItems);
