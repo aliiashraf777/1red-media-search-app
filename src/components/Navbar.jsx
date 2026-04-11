@@ -1,6 +1,6 @@
 import Button from './Button'
 import { NavLink } from 'react-router-dom'
-
+ 
 const Navbar = () => {
     return (
         <div className="bg-blue-900x bg-gray-950 px-10 py-5 flex justify-between items-center">
